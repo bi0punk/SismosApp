@@ -1,0 +1,2 @@
+# SismosApp
+androidapp sismos
